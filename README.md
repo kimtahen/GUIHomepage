@@ -1,1 +1,2 @@
-http://ec2-52-201-231-212.compute-1.amazonaws.com/
+운영체제의 GUI를 react로 구현해 본 프로젝트 입니다.
+react.js를 처음 공부하고 만든 페이지라서 미흡할 수 있습니다.
