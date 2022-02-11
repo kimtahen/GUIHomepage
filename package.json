@@ -1,0 +1,23 @@
+{
+  "name": "guipage-client-reactjs",
+  "version": "1.0.0",
+  "description": "운영체제의 GUI를 react로 구현해 본 프로젝트 입니다. react.js를 처음 공부하고 만든 페이지라서 미흡할 수 있습니다.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimtahen/guipage-client-reactjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimtahen/guipage-client-reactjs/issues"
+  },
+  "homepage": "https://github.com/kimtahen/guipage-client-reactjs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
